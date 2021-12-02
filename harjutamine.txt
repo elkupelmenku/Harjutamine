@@ -1,0 +1,2 @@
+GitHub, Inc. on Interneti-majutuse pakkuja tarkvara arendamiseks ja versioonikontrolliks Giti abil. See pakub Giti hajutatud versioonikontrolli ja lähtekoodi haldamise funktsioone ning oma funktsioone.
+Ei kasuta edaspidi GutHub'i.
